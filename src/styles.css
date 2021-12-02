@@ -14,3 +14,13 @@
     --font-family-1: 'Poppins', sans-serif;
     --animation-a: 200ms;
 }
+
+html,
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-3);
+    font-family: var(--font-family-1);
+    font-size: var(--font-size-1);
+    color: var(--color-4);
+}
